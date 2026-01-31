@@ -12,4 +12,4 @@ pip3 install xlsxwriter
 
 pip3 install requests
 
-python3 serna_scrap.py
+python3 Linked_In.py
